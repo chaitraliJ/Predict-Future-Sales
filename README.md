@@ -13,11 +13,11 @@ Size of Test Data: 214200 rows
 
 Source	Description :
 
-sales_train.csv -	Daily historical data from Jan 2013 to Oct 2015
+sales_train.csv -	Daily historical data from Jan 2013 to Oct 2015.
 test.csv	-  We Require to forecast the sales for the next month for each shop and item.
-items.csv -	Items/products information
-item_categories.csv	- Items categories information
-shops.csv	- Shops information
+items.csv -	Items/products information.
+item_categories.csv	- Items categories information.
+shops.csv	- Shops information.
 
 IMPLEMENTATION :
 Tried the following Models
