@@ -9,6 +9,7 @@ DATASET :
 https://www.kaggle.com/c/competitive-data-science-predict-future-sales
 
 Size of Training Data: 2935849 rows * 6 columns
+
 Size of Test Data: 214200 rows 
 
 Source	Description :
