@@ -12,7 +12,7 @@ Size of Training Data: 2935849 rows * 6 columns
 
 Size of Test Data: 214200 rows 
 
-Source	Description :
+Source	Description : All the data files are in the zip competitive-data-science-predict-future-sales in Data/
 
 sales_train.csv -	Daily historical data from Jan 2013 to Oct 2015.
 
@@ -24,8 +24,9 @@ item_categories.csv	- Items categories information.
 
 shops.csv	- Shops information.
 
-IMPLEMENTATION :
-Tried the following Models
+IMPLEMENTATION : 
+Data Analysis, Data Cleaning, Feature Engineering on Data, Training and Testing of Models is in Predict_Future_Sales_Final_Project.ipynb.
+Tried the following Models for Training
 1) Linear Regression
 2) KNN
 3) Random Forest
